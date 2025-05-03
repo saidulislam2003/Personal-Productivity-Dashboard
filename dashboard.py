@@ -24,7 +24,8 @@ quotes = [
     "Believe you can and you're halfway there.",
     "You are capable of amazing things.",
     "Push yourself, because no one else is going to do it for you.",
-    "Success doesn't come from what you do occasionally. It comes from what you do consistently."
+    "Success doesn't come from what you do occasionally. It comes from what you do consistently.",
+    "The most dangerous phrase in the language is, ‘We’ve always done it this way."
 ]
 st.info(random.choice(quotes))
 
